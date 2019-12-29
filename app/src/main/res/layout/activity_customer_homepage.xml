@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/design_default_color_primary"
+    android:orientation="vertical"
+    tools:context=".customer_homepage">
+
+    <Button
+        android:id="@+id/btnRequestForm"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="25dp"
+        android:text="Request Form"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/btnOurEcoWays"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+
+        android:layout_margin="25dp"
+        android:text="Our Eco Ways"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/btnProcessed"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+
+        android:layout_margin="25dp"
+        android:text="Processed Requests"
+        android:textSize="36sp" />
+
+</LinearLayout>

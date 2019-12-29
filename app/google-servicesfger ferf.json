@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "848077740857",
+    "firebase_url": "https://vancouvertourismappfinal.firebaseio.com",
+    "project_id": "vancouvertourismappfinal",
+    "storage_bucket": "vancouvertourismappfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848077740857:android:d816f4f2e13cb423b026e8",
+        "android_client_info": {
+          "package_name": "com.example.loveeco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848077740857-kts6cvab3k4eqft3b7ko1heujgiic47i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1iCTaafOlQ1AkmOtv5A-ege4l4DNibV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848077740857-kts6cvab3k4eqft3b7ko1heujgiic47i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848077740857:android:7c57046d8a043d9ab026e8",
+        "android_client_info": {
+          "package_name": "com.example.vancouvertourismappfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848077740857-cdpfeliff6f36ttsvaf2k7rm4mvgpavb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vancouvertourismappfinal",
+            "certificate_hash": "86100fedec95090d12051b291c387e0e39b93463"
+          }
+        },
+        {
+          "client_id": "848077740857-kts6cvab3k4eqft3b7ko1heujgiic47i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1iCTaafOlQ1AkmOtv5A-ege4l4DNibV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848077740857-kts6cvab3k4eqft3b7ko1heujgiic47i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

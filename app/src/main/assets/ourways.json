@@ -1,0 +1,169 @@
+[
+
+  {
+    "ID": "1",
+    "Name": "Why water ?",
+    "Category": "Water",
+    "Desc": "Water is the life giving material and is 2/3 in content with your body and planet,Do remember this",
+    "Pictures": "https://cdn.pixabay.com/photo/2014/12/24/05/02/drops-of-water-578897_1280.jpg"
+  },
+
+  {
+    "ID": "2",
+    "Name": "Mitti(Clay) Cool",
+    "Category": "Water",
+    "Desc": "This just require an earthen pot and you are good to have a cold water within 2 hours.",
+    "Pictures":  "https://5.imimg.com/data5/JP/LQ/MY-46218072/multani-mitti-powder-500x500.jpg"
+  },
+
+  {
+    "ID": "3",
+    "Name": "Water Cool",
+    "Category": "Water",
+    "Desc": "While this helps you retain coolness of your water also the drinkability of it.This will be organic way to deal with purity of water",
+    "Pictures":   "https://farm4.static.flickr.com/3071/2565793782_6361531287_o.jpg"
+  },
+
+  {
+    "ID": "4",
+    "Name": "Why Air",
+    "Category": "Air",
+    "Desc": "Air is what brings the energy in terms of oxygen to your body and thus the purity and quality of what you breathe in matters ?",
+    "Pictures": "https://www.unece.org/fileadmin/user_upload/Environment_clean_air_web.jpg"
+  },
+
+  {
+    "ID": "5",
+    "Name": "Air Cool",
+    "Category": "Air",
+    "Desc": "This requires a porous dry grass on the way to your ventilation Area.",
+    "Pictures": "https://thumbs.dreamstime.com/z/electric-cooler-fan-blowing-fresh-air-25067054.jpg"
+  },
+
+  {
+    "ID": "6",
+    "Name": "Air Quality",
+    "Category": "Air",
+    "Desc": "Try to accomodate your area with more plants so that because of which your home bursts with abundance of oxygen",
+    "Pictures": "https://tricountyhealth.com/wp-content/uploads/2017/02/ThinkstockPhotos-512883102-1030x682.jpg"
+  },
+
+  {
+    "ID": "7",
+    "Name": "Why Food ?",
+    "Category": "Food",
+    "Desc": "Whatever you eat becomes the part of you thus what to eat and when to eat is very important for the beautiful, robust and energetic physique",
+    "Pictures": "https://www.diabetes.co.uk/wp-content/uploads/2019/01/iStock-855098134.jpg"
+  },
+
+  {
+    "ID": "8",
+    "Name": "Organic food",
+    "Category": "Food",
+    "Desc": "According to old saying , what you eat is what you become, thus it should be the organic food which plays vital role of your experience of life",
+    "Pictures": "https://yourstrulyorganics.com/wp-content/uploads/2019/05/featured-organic-food-1024x535-760x385.jpg"
+  },
+
+  {
+    "ID": "9",
+    "Name": "The vegan way",
+    "Category": "Food",
+    "Desc": "Have Everything is moderation , The Simpler form of life(Plants , vegetables , fruits) you eat , the more you have capability to make it your own.",
+    "Pictures": "https://www.inside-out-health.com/wp-content/uploads/2018/01/eating-healthily-vegan-way.jpg"
+  },
+
+  {
+    "ID": "10",
+    "Name": "Why LifeStyle?",
+    "Category": "LifeStyle",
+    "Desc": "Because our lifestyle is what defines us!!",
+    "Pictures": "https://adiahealth.com/wp-content/uploads/what-is-a-healthy-lifestyle.png"
+  },
+
+  {
+    "ID": "11",
+    "Name": "Whats wrong the modern lifeStyle ?",
+    "Category": "LifeStyle",
+    "Desc": "Modern lifestyle leaves very little room for an individual to pay attention to his personal health. We may not notice it, but humanity, in general is in a steady rate of decline which will cost us in the future.",
+    "Pictures": "https://i.ytimg.com/vi/-N6NT-RL3wI/maxresdefault.jpg"
+  },
+
+  {
+    "ID": "12",
+    "Name": "How can we correct the  modern way?",
+    "Category": "LifeStyle",
+    "Desc": "Best way is to change it slowly by incorporating minor changes at a time",
+    "Pictures": "https://www.nymphaeumlife.com/wp-content/uploads/2018/08/pexels-photo-892682.jpeg"
+  },
+
+  {
+    "ID": "13",
+    "Name": "Why Breathing?",
+    "Category": "Breathing",
+    "Desc": "Breathing in itself can help you become a better self as taught by various yoga exercises",
+    "Pictures": "https://annemoss.com/wp-content/uploads/breathing.jpg"
+  },
+
+  {
+    "ID": "14",
+    "Name": "Breathing Exercises",
+    "Category": "Breathing",
+    "Desc": "Oxygen being the most essential of all elements in the human body, it is vital to pay close attention to your breathing while doing any form of exercise. Just like the food that we eat, energizes our body, in the same way oxygen that we inhale energizes it too. ",
+    "Pictures": "http://srisugam.com/wp-content/uploads/2018/08/1-Breathing-Exercises.jpg"
+  },
+
+  {
+    "ID": "15",
+    "Name": "When to do them and where?",
+    "Category": "Breathing",
+    "Desc": "Do belly breathing exercises when you're feeling relaxed and rested. Practice diaphragmatic breathing for 5 to 10 minutes 3 to 4 times per day.",
+    "Pictures": "https://yurielkaim.com/wp-content/uploads/2016/10/Belly-Breathing-Like-a-Pro.jpg"
+  },
+
+  {
+    "ID": "16",
+    "Name": "Why Ayurvedic Medicines?",
+    "Category": "Ayurvedic",
+    "Desc": "Ayurvedic medicine is one of the world's oldest medical systems and remains one of India's traditional health care systems. Ayurvedic treatment combines products (mainly derived from plants, but may also include animal, metal, and mineral), diet, exercise, and lifestyle.",
+    "Pictures": "https://5.imimg.com/data5/DK/AU/MY-3121225/ayurvedic-medicine-500x500.jpg"
+  },
+
+  {
+    "ID": "17",
+    "Name": "Ayurvedic Benefits",
+    "Category": "Ayurvedic",
+    "Desc": "Ayurveda encourages you to find the love in yourself instead of comparing yourself to other people. It wants you to understand that you are truly unique, and is designed so that you approach your individual life in the most tailored way possible. It encourages you to discover your individual needs, as well as grow, heal, and reflect on your life. ",
+    "Pictures": "https://www.tentaran.com/health/wp-content/uploads/2018/01/Benefits-of-Ayurvedic-medicines.jpg"
+  },
+
+  {
+    "ID": "18",
+    "Name": "Why Vedic Practices",
+    "Category": "Vedic",
+    "Desc": "Vedic practices are mindfulness techniques based on ancient writings, the Vedas, which delve into the depths of spirit and self. But Vedic practices offer very practical ways for modern people to move closer to our inner selves.\n",
+    "Pictures": "https://www.hinduwebsite.com/hinduism/images/yajna-01.jpg"
+  },
+
+  {
+    "ID": "19",
+    "Name": "Vedic Rituals and Methods",
+    "Category": "Vedic",
+    "Desc": "The priests who officiated at that worship were drawn from the Brahman social class. The complex Vedic ceremonies, for which the hymns of the Rigveda were composed, centred on the ritual sacrifice of animals and the drinking of a sacred, mind-altering liquor pressed from a plant called soma.",
+    "Pictures": "https://www.hindujagruti.org/evoimg/news1/out/images/1307789669_vedic.jpg"
+  },
+  
+  {
+    "ID": "20",
+    "Name": "Why Yoga?",
+    "Category": "Yoga",
+    "Desc": "The literal meaning of the Sanskrit word Yoga is 'Yoke'. Yoga can therefore be defined as a means of uniting the individual spirit with the universal spirit of God. According to Maharishi Patanjali, Yoga is the suppression of modifications of the mind.",
+    "Pictures": "https://media.self.com/photos/5b7c4e71ecbb7f4c41c77335/4:3/w_746/triangle-pose-beginner-yoga.jpg"
+  },
+  {
+    "ID": "21",
+    "Name": "And then Yoga!",
+    "Category": "Yoga",
+    "Desc": "Yoga is a great activity for you if you have diabetes, high blood pressure, high cholesterol, or heart disease. It gives you strength, flexibility, and mind-body awareness. You'll also need to do something aerobic (like walking, biking, or swimming) if you're not doing a fast-moving type of yoga.",
+    "Pictures": "https://7pranayama.com/wp-content/uploads/2017/09/q-1.png"
+  }
+]

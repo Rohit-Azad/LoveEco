@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoveEco</string>
+    <string-array name="type">
+        <item>Administrator</item>
+        <item>Customer</item>
+    </string-array>
+</resources>
